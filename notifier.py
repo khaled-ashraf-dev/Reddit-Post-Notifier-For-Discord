@@ -7,7 +7,7 @@ TOKEN = 'Token-Here'
 
 # Enter the channel ID here
 # You can get it from the discord server by right-clicking on the channel and clicking 'Copy ID'
-channel_id = 1031480065113985076
+channel_id = 123456789
 
 intents = discord.Intents.default()
 intents.message_content = True
