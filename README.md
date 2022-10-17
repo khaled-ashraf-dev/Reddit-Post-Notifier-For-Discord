@@ -1,6 +1,6 @@
 # Reddit-Post-Notifier-For-Discord
 A simple Discord bot that sends a Discord message whenever there's a new post on a certain Subreddit.
-
+![enter image description here](https://i.ibb.co/fDyLR6k/Screenshot-2022-10-17-14-31-57.png)
 ## How to Use
 
  1. Simply make a Discord bot application [click here](https://discord.com/developers/applications) and save the token somewhere.
